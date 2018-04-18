@@ -1,0 +1,1 @@
+Para definir o tamanho de alguma coisa no css precisa verificar se a tag que ele esta com o display inline, inline-block ou block. Display inline não é possivel definir o tamanho e altura de algo, sendo necessario trocar para inline-bloocok ou block
